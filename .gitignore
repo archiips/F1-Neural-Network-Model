@@ -1,0 +1,7 @@
+f1_cache/
+*.sqlite
+*.ff1pkl
+f1_cache/
+*.sqlite
+*.ff1pkl
+.DS_Store
