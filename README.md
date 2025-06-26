@@ -79,7 +79,7 @@ print(f"Predicted winner: {pred_winner}")
 
 Below is the training loss curve after 2000 epochs:
 
-![Training Loss](images/loss_plot.png)
+![Training Loss](training_loss.png)
 
 This shows the neural network steadily reducing loss, with some signs of overfitting toward the end. The training process prints training and validation accuracy per epoch and shows prediction accuracy on validation races.
 
